@@ -1,0 +1,101 @@
+name,miles,cylinders,origin
+Sentra,25,8,USA
+Titan,13,10,Japan
+1000,25,8,Japan
+Voyager,19,8,USA
+Cabriolet,14,10,Japan
+ES,19,4,Japan
+Sentra,21,7,Japan
+Altima,25,10,USA
+Seville,7,9,Japan
+Phaeton,19,7,German
+Pajero,5,6,USA
+Discovery,21,5,USA
+Mazda5,8,10,German
+Endeavor,8,6,Japan
+Commander,17,8,Japan
+5 Series,8,7,German
+Civic,21,8,USA
+Highlander,17,10,USA
+Wrangler,18,5,Japan
+Yaris,19,5,USA
+Silverado 3500,20,4,Japan
+1500,10,6,German
+Passat,6,7,USA
+Bronco II,13,9,Japan
+Escort,25,7,USA
+Boxster,10,5,Japan
+Rally Wagon G3500,22,5,USA
+GTO,21,4,Japan
+Savana,16,8,German
+xB,5,5,USA
+Carrera GT,14,9,German
+Tiburon,19,9,German
+Cavalier,20,10,German
+VehiCROSS,10,9,German
+Ranger,10,6,German
+Elantra,25,5,USA
+Sebring,18,9,USA
+Yaris,9,8,German
+S10 Blazer,16,9,USA
+LeBaron,12,10,German
+Elise,14,10,German
+Type 2,14,4,Japan
+M,9,4,German
+Genesis Coupe,9,7,German
+Torrent,15,4,German
+Sierra 1500,16,6,Japan
+RAV4,6,5,German
+Celica,12,9,USA
+Malibu,20,10,German
+NV1500,9,10,Japan
+Silverado 3500,8,6,USA
+Caravan,17,5,German
+MPV,22,7,German
+Terraza,22,6,German
+Miata MX-5,22,5,Japan
+Escalade,5,7,German
+Gran Sport,15,6,Japan
+E-Series,22,7,USA
+Mirage,16,4,USA
+Maxima,5,5,USA
+H3,25,5,Japan
+E-Class,23,7,USA
+Vibe,22,8,Japan
+Highlander,14,10,Japan
+XT,14,8,German
+Cavalier,9,5,USA
+Brooklands,6,4,Japan
+Pathfinder,11,4,Japan
+Tempo,22,5,Japan
+Spectra,21,10,USA
+Explorer Sport Trac,11,9,USA
+Sedona,16,9,USA
+Kizashi,24,9,Japan
+RL,10,10,German
+Lancer Evolution,5,10,Japan
+600,14,7,USA
+Quattro,19,10,USA
+Highlander Hybrid,14,4,USA
+X6 M,15,5,German
+G6,22,6,German
+MX-6,14,4,German
+Bronco,24,5,USA
+Fortwo,19,9,USA
+Escalade,12,5,Japan
+Phantom,13,6,USA
+400SEL,5,10,German
+Insight,8,6,Japan
+Touareg,7,6,Japan
+Yukon XL 1500,19,5,German
+Uplander,18,4,German
+Canyon,19,6,German
+Azure T,10,5,USA
+MX-6,13,8,USA
+Highlander,16,6,Japan
+1500,16,4,USA
+GTI,12,5,German
+M Roadster,6,4,USA
+Wrangler,22,10,German
+Grand Vitara,20,9,German
+LS,25,5,German

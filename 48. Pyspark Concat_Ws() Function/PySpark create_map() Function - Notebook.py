@@ -7,7 +7,7 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC #### Pyspark Concat_Ws() Function in Azure Databricks
+# MAGIC #### PySpark create_map() in Azure Databricks
 
 # COMMAND ----------
 
